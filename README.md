@@ -3,7 +3,7 @@ request
 install :
 
 ```
-composer require "yingfu9218/request"
+composer require "yfchen/request"
 
 ```
 

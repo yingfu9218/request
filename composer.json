@@ -1,12 +1,13 @@
 {
     "name": "yfchen/request",
     "description": "php request tool",
+    "license": "MIT License",
     "authors": [
         {
             "name": "yinfu",
             "email": "yingfu9218@163.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }

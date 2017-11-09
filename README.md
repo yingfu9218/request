@@ -3,7 +3,7 @@ request
 install :
 
 ```
-composer require "yfchen/request"
+composer require "yfchen/request:dev-master"
 
 ```
 

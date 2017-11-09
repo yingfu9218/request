@@ -1,0 +1,12 @@
+{
+    "name": "yingfu/request",
+    "description": "php request tool",
+    "authors": [
+        {
+            "name": "yinfu",
+            "email": "yingfu9218@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

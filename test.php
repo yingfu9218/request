@@ -9,5 +9,5 @@ include  './src/Request.php';
 $url='apit.zcplan.cn';
 $params=array();
 $method = 'GET';
-$data= \yinfu\Request::http($url,$params,$method);
+$data= \yfchen\Request::http($url,$params,$method);
 var_dump($data);

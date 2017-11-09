@@ -6,7 +6,7 @@
  * Time: 下午10:59
  */
 
-namespace yinfu;
+namespace yfchen;
 
 
 class Request

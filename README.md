@@ -17,7 +17,7 @@ example:
  * Date: 2017/11/9
  * Time: 下午11:05
  */
-use yinfu\Request;
+use yfchen\Request;
 $url='http://baidu.com';
 $params=array();
 $method = 'GET';
